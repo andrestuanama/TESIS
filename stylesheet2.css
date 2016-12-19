@@ -1,0 +1,60 @@
+}
+#contenido
+{
+	width: 1200px;
+	margin: 0 auto;
+	text-align: left;
+}
+h1
+{
+	color:#000000;
+	
+}
+h2
+{
+	color:#F16745;
+
+
+}
+nav ul li
+{
+	display: inline-block;
+	margin-right: 20px;
+	color:#000000;
+	cursor: pointer;
+	padding: 2px;
+
+	transition:all 0.5s linear;
+	-webkit-transition:all 0.5s linear;
+	-moz-transition:all 0.5s linear;
+	-o-transition:all o.5s linear;
+}
+
+	nav ul li:hover
+{
+	background-color: #3333FF;
+	color: #e44e2d;
+	border-radius: 5px;
+}
+}
+a 
+{
+	color:#FF0000;
+	font-weight: bold;
+}
+ul li
+{
+	text-align: left;
+	color: #16cccc;
+	margin-right: 20px;
+
+}
+
+header hgroup nav ul li a
+{
+	color:#FF0000;
+
+}
+
+<!-- PARA INDEX(HOME)-->
+
