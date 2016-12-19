@@ -1,3 +1,13 @@
+body
+{
+	font-family: "Cursive";
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	max-width: 100%
+
+
 }
 #contenido
 {
@@ -10,6 +20,9 @@ h1
 	color:#000000;
 	
 }
+
+
+
 h2
 {
 	color:#F16745;
