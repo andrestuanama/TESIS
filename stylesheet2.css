@@ -9,11 +9,29 @@ body
 
 }
 
+nav ul li a
+{
+	display: list-item;
+	text-align: webkit max-width
+
+
+}
+
+
 #contenido
 {
 	width: 1200px;
 	margin: 0 auto;
 	text-align: center;
+	font-size: 18px;
+    letter-spacing: 1px;
+    color: #b6f237;
+    padding: 0 22px 0;
+    display: block;
+    float: left;
+    text-transform: none;
+    line-height: 100px;
+
 }
 
 <!-- PARA INDEX(HOME)-->
