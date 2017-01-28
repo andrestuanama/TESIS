@@ -6,10 +6,12 @@ header section
 	 border-color: #000
  }
 
-div nav a 
+div button a 
 {
 	text-align: center;
-	font-size: 2.5rem;
+	font-size: 2.0rem;
+
+	
 }
 
 div article
@@ -17,3 +19,8 @@ div article
 	text-align: center;
 	font-size: 1.5rem;
 }
+
+div button{
+	
+}
+
