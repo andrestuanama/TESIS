@@ -2,12 +2,14 @@ header table {
 	text-align: center;
 	font-size: 1.5rem;
 }
+
 nav ul a
 {
 	
 	font-size: 2.0rem;
 	text-align: center;
-	margin-right: 350px;
+	margin-right:100px;
+	margin-left: 100px;
 	
 }
 section table tr td b
